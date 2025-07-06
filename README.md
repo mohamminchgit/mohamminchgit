@@ -1,11 +1,19 @@
-### Hey, I'm Mohammad Amin Cheraghian! 🚀 | Tech Explorer
+### Hey, I'm Mohammad Amin Cheraghian! 🚀 | Tech Explorer & AI Enthusiast
 
-**Interests:** I'm all about diving into coding and AI! I love crafting creative projects like Telegram bots using the power of AI.
+I’m not a programmer, but I bring ideas to life with the help of AI.
 
-**Currently Learning:** Digging into programming concepts, algorithms, and AI tools like Python. AI is my co-pilot on this journey!
+**🧠 What I’m into:**  
+Learning by building. Whether it's a smart Telegram bot or a tool powered by AI, I love experimenting and turning sparks of curiosity into real things.
 
-**Looking to Collaborate:** Excited to team up on cool projects like Telegram bot development or AI-driven ideas. Got something creative? Let’s chat!
+**🔍 Currently digging into:**  
+Programming foundations, algorithms, and Python—AI is my co-pilot and I'm learning how to fly smarter, not just harder.
 
-**Reach Me:** Find me on Telegram at [@mohamminch](https://t.me/mohamminch)
+**🤝 Open to collaboration:**  
+Got a wild or creative project idea? Especially something around bots or AI? Count me in. Let’s build something cool together.
 
-**Fun Fact:** I'm not your typical coder—I build projects by mastering concepts and teaming up with AI. Also, I’m a football fanatic, love my family, and can’t get enough of that keyboard-typing sound! ⚽⌨️
+**📬 Reach out:**  
+I’m most active on Telegram — [@mohamminch](https://t.me/mohamminch). Drop a message, say hi, or pitch an idea!
+
+**⚽ A bit more about me:**  
+I’m a football fanatic, family means the world to me, and honestly... the sound of typing on a mechanical keyboard? Pure joy.  
+Building with AI, learning by doing, and having fun along the way—that’s the vibe.
